@@ -1,5 +1,5 @@
 # Flappybird_Agent
-A implemetion of a DQN agent that plays Flappybird game.<br>
+A implemetion of a DQN(Deep-Q Learning) agent that plays Flappybird game.<br>
 This work is based on the following repos:<br>
 https://github.com/yenchenlin/DeepLearningFlappyBird   <br>
 https://github.com/SukerZ/Playing-Flappy-Bird-by-DQN-on-PyTorch  <br>
